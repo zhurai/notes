@@ -130,4 +130,4 @@
     - Get 1% better each day (focus on the process rather than the end goal, create a consistent habit via a routine)
     - Keep a social chat going!
 
-
+= How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
