@@ -1,4 +1,4 @@
-= Keynote: Fireside Chat with Kelsey Hightower
+= Keynote: Fireside Chat (Kelsey Hightower)
 (Kelsy Hightower: Principle Engineer at Google)
 - He got interested in Retail/Food Service and took classes in college but decided not to go, but wanted a good career
 - Instead got A+ Certification
@@ -33,6 +33,7 @@
 - Figure out how you can put your own personality on top of the work, you stand out as an individual, and that is how you get noticed 
 - "Enjoy every minute of this"
 
+= Redefining Your Programming Purpose (Tracy P Holmes)
 
 
 
