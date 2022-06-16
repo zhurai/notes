@@ -26,8 +26,12 @@
     - Watch videos/read about the language
     - Once it makes sense, tries his own code
 - "Stay consistent and stay diligent"
-
-
+- "Do enough to make me respect me tomorrow" - you can't solve all the world's problems, but stay focused on what you can fix
+    - "There is no perfect company"
+    - But be aware of what the criticisms are, so you can have empathy for others
+    - "You are not your job" "technology doesn't replace humans" 
+- Figure out how you can put your own personality on top of the work, you stand out as an individual, and that is how you get noticed 
+- "Enjoy every minute of this"
 
 
 
