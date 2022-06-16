@@ -1,4 +1,5 @@
-= Keynote: Fireside Chat (Kelsey Hightower)
+Keynote: Fireside Chat (Kelsey Hightower)
+======
 (Kelsy Hightower: Principle Engineer at Google)
 - He got interested in Retail/Food Service and took classes in college but decided not to go, but wanted a good career
 - Instead got A+ Certification
@@ -33,7 +34,8 @@
 - Figure out how you can put your own personality on top of the work, you stand out as an individual, and that is how you get noticed 
 - "Enjoy every minute of this"
 
-= Redefining Your Programming Purpose (Tracy P Holmes)
+Redefining Your Programming Purpose (Tracy P Holmes)
+======
 (Developer Advocate)
 - "Slowly is the fastest way to get where you want to be" - Andre De Shields
 - Went from coding (C++/.NET) to IT (Sysadmin) back to coding (specifically python)
@@ -41,7 +43,8 @@
 - "If what you want doesn’t exist, create it"
 - She has very good quotes
 
-= Celibrate You're Misteaks (Joe Glombek)
+Celibrate You're Misteaks (Joe Glombek)
+======
 - TDODAR decision making model
     - Time - How much time do we have
     - Diagnosis - What is the problem
@@ -60,9 +63,11 @@
     - Git commit history
     - Code in public (including open source projects)
     
-= Next-Gen Inclusivity: How Gen Z Can Make Real Change in Tech (Haimantika Mitra)
+Next-Gen Inclusivity: How Gen Z Can Make Real Change in Tech (Haimantika Mitra)
+======
 
-= Teaching Through Code Review (Derek Binkley)
+Teaching Through Code Review (Derek Binkley)
+======
 - too often it is a cursory process or contentious process
 - how to get a learning/collaborative process out of this
 - purpose of code review is to prevent bugs and ensure consistency
@@ -79,7 +84,8 @@
 - "Development is a collaborative task, done between humans, please treat others with humility, kindness and be nice to others, even if there are problems "in production stages""
 - Ask for help if needed (hopefully there is an environment where collaboration is encouraged)
 
-= The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
+The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
+======
 - "Working in tech doesn't mean that our personal values cease to exist"
 - Pop culture perpetrated tropes that ethics is an idealistic myth rather than reality
 - Current problems
@@ -113,7 +119,8 @@
     - pave the way for someone new
     - help the community around you
 
-= A Programmer's Guide to Mental Health (Raymond Chung)
+A Programmer's Guide to Mental Health (Raymond Chung)
+======
 - "It's okay to be not okay"
 - Imposter Syndrome - first job, didn't want to be exposed as a fraud, was too hard on himself which created bad habits
 - you will experience Imposter Syndrome (on and off) during your career (it's how you know you're growing)
@@ -130,9 +137,11 @@
     - Get 1% better each day (focus on the process rather than the end goal, create a consistent habit via a routine)
     - Keep a social chat going!
 
-= How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
+How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
+======
 
-= I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
+I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
+======
 - Main job for programmers is to solve problems
 - develop algorithms to allow us to provide solutions
 - Basically technical recipies
@@ -148,7 +157,8 @@
     - simplified/make it easy to understand
 - makes it easier to translate to the target language
 
-= Speaker Discussion (Silvia España, Raymond Chung, Tracy P Holmes, & Haimantika Mitra) 
+Speaker Discussion (Silvia España, Raymond Chung, Tracy P Holmes, & Haimantika Mitra) 
+======
 (Moderator: Saron Yitbarek)
 - Twitter profiles:
     - https://twitter.com/saronyitbarek
@@ -160,7 +170,8 @@
 - "Personal branding doesn't always have to happen on social media"
 - your/a good community keeps you humble
 
-= Speaker Discussion: (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, Derek Binkley)
+Speaker Discussion: (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, Derek Binkley)
+======
 (Moderator: Saron Yitbarek)
 - Twitter profiles:
     - https://twitter.com/DerekB_WI
