@@ -53,4 +53,19 @@
 - How does this apply to development
     - Everyone makes mistakes on a regular basis
     - Create a culture of sharings (sharing our mistakes)
-    - Helps learn about others' mistakes (saves us from making the same mistake)
+    - Helps to learn about others' mistakes (saves us from making the same mistake)
+- Good time to share mistakes, and how to share mistakes
+    - Project washups/retrospectives
+    - One-to-one's talking about progress - "Mistakes are progress as well"
+    - Git commit history
+    - Code in public (including open source projects)
+    
+
+
+
+
+
+
+
+
+
