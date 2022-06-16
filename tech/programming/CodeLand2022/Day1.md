@@ -148,8 +148,9 @@
     - simplified/make it easy to understand
 - makes it easier to translate to the target language
 
-
-
+= Speaker Discussion (Silvia España, Raymond Chung, Tracy P Holmes, & Haimantika Mitra) 
+(Moderator: Saron Yitbarek)
+- 
 
 
 
