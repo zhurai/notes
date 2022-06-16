@@ -113,3 +113,21 @@
     - pave the way for someone new
     - help the community around you
 
+= A Programmer's Guide to Mental Health (Raymond Chung)
+- "It's okay to be not okay"
+- Imposter Syndrome - first job, didn't want to be exposed as a fraud, was too hard on himself which created bad habits
+- you will experience Imposter Syndrome (on and off) during your career (it's how you know you're growing)
+- Good tactics to mitigate the negative effects of Imposter syndrome
+    - Keep a win list
+    - Give yourself positive affirmations
+    - Set talking points with your lead/interns for 1 on 1's (What do you want to talk about in the 1:1, What are the next steps? What do you want to pair on today?)
+- Signs of burnout
+    - Feeling stressed 
+    - Feeling like you failed
+    - Dissatisfied with the work you are doing
+    - Lacking self care (Define core working hours especially when remote)
+    - Organize your day with a set agenda
+    - Get 1% better each day (focus on the process rather than the end goal, create a consistent habit via a routine)
+    - Keep a social chat going!
+
+
