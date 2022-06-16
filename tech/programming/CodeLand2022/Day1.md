@@ -160,8 +160,12 @@
 - "Personal branding doesn't always have to happen on social media"
 - your/a good community keeps you humble
 
-= Speaker Discussion (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, & Derek Binkley)
+= Speaker Discussion: (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, Derek Binkley)
 (Moderator: Saron Yitbarek)
+- 
+
+
+
 
 
 
