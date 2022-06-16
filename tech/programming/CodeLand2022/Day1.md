@@ -66,6 +66,18 @@
 - too often it is a cursory process or contentious process
 - how to get a learning/collaborative process out of this
 - purpose of code review is to prevent bugs and ensure consistency
+- Better off to automate tedious checks (reduces friction and increases consistency)
+- Making time for code review (add code review to estimates)
+- Might be better for everyone to code review
+    - allows everyone to get involved and ask questions
+    - asking questions makes it a learning process
+- Recommendation to have pull requests smaller instead of huge
+- Readable vs Unreadable code
+- having negative feedback (Just saying no/treating it like grading a paper) does not help
+- Commenting with kindness (you are building something together), phrasing it as a question can help
+- Accidental code review / incidental pair programming can be helpful
+- "Development is a collaborative task, done between humans, please treat others with humility, kindness and be nice to others, even if there are problems "in production stages""
+- Ask for help if needed (hopefully there is an environment where collaboration is encouraged)
 
 
 
