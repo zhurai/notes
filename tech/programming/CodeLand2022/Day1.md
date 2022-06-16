@@ -62,9 +62,10 @@
     
 = Next-Gen Inclusivity: How Gen Z Can Make Real Change in Tech (Haimantika Mitra)
 
-= 
-
-
+= Teaching Through Code Review (Derek Binkley)
+- too often it is a cursory process or contentious process
+- how to get a learning/collaborative process out of this
+- purpose of code review is to prevent bugs and ensure consistency
 
 
 
