@@ -60,8 +60,9 @@
     - Git commit history
     - Code in public (including open source projects)
     
+= Next-Gen Inclusivity: How Gen Z Can Make Real Change in Tech (Haimantika Mitra)
 
-
+= 
 
 
 
