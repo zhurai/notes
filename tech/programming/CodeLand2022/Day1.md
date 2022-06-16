@@ -80,6 +80,36 @@
 - Ask for help if needed (hopefully there is an environment where collaboration is encouraged)
 
 = The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
-
-
+- "Working in tech doesn't mean that our personal values cease to exist"
+- Pop culture perpetrated tropes that ethics is an idealistic myth rather than reality
+- Current problems
+    - Reliance on tools not people
+    - desire to connect without why
+    - lack of transparency
+    - taught to stick to the status quo
+    - culture of community or hype/missing out?
+- Embracing the power of the individual
+    - individuals make up communities
+    - communities are all around us
+    - how can communities must protect the individual to thrive (to be who they are)
+- Should
+    - Celebrate individual beliefs
+    - honor strong individual ethics
+    - embracing "see something say something"
+    - foster a culture of contribution/conversation
+- share where you're coming from (your history, personal ethics)
+    - "Transparency is the new objectivity"
+    - What do you stand for
+    - What don't you tolerate
+    - How do you communicate (emoji/pronouns/etc)
+    - What are your pet peeves?
+    - What makes you feel valued?
+- Know and identify your own personal code of ethics toi know where you stand and what will leave you fulfilled
+- Individual outcomes
+    - know if needs are met
+    - build a track record of trust
+    - raise awareness of tough issues
+    - contribute to culture creation
+    - pave the way for someone new
+    - help the community around you
 
