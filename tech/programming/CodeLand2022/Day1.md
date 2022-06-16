@@ -131,3 +131,6 @@
     - Keep a social chat going!
 
 = How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
+- 
+
+= I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
