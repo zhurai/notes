@@ -133,3 +133,24 @@
 = How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
 
 = I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
+- Main job for programmers is to solve problems
+- develop algorithms to allow us to provide solutions
+- Basically technical recipies
+- algorithms must be
+    - precise (indicate exactly what we want to do)
+    - organized (specify the sequence in which the steps should occur)
+    - finites (beginning and the end - the solution)
+    - specific (solve a concrete/defined solution/problem)
+    - defined (results always the same)
+- Pseudocode depending on implementation of pseudocode
+    - helps provide a structure
+    - show the beginning and the end
+    - simplified/make it easy to understand
+- makes it easier to translate to the target language
+
+
+
+
+
+
+
