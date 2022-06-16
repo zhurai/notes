@@ -34,6 +34,9 @@
 - "Enjoy every minute of this"
 
 = Redefining Your Programming Purpose (Tracy P Holmes)
-
-
-
+(Developer Advocate)
+- "Slowly is the fastest way to get where you want to be" - Andre De Shields
+- Went from coding (C++/.NET) to IT (Sysadmin) back to coding (specifically python)
+- Don't know how to ask for help but didn't know enough to know what she didn't know
+- "If what you want doesn’t exist, create it"
+- She has very good quotes
