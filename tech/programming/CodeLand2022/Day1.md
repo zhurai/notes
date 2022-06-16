@@ -40,3 +40,5 @@
 - Don't know how to ask for help but didn't know enough to know what she didn't know
 - "If what you want doesn’t exist, create it"
 - She has very good quotes
+
+= Celibrate You're Misteaks (Joe Glombek)
