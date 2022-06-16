@@ -79,7 +79,7 @@
 - "Development is a collaborative task, done between humans, please treat others with humility, kindness and be nice to others, even if there are problems "in production stages""
 - Ask for help if needed (hopefully there is an environment where collaboration is encouraged)
 
-
+= The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
 
 
 
