@@ -42,3 +42,15 @@
 - She has very good quotes
 
 = Celibrate You're Misteaks (Joe Glombek)
+- TDODAR decision making model
+    - Time - How much time do we have
+    - Diagnosis - What is the problem
+    - Options - List all of the possible solutions
+    - Decide - take charge and make a decision
+    - Assign - assign tasks to people
+    - Review - has the problem been resolved? should we be doing something else?
+    - Did we make any mistakes?
+- How does this apply to development
+    - Everyone makes mistakes on a regular basis
+    - Create a culture of sharings (sharing our mistakes)
+    - Helps learn about others' mistakes (saves us from making the same mistake)
