@@ -150,7 +150,18 @@
 
 = Speaker Discussion (Silvia España, Raymond Chung, Tracy P Holmes, & Haimantika Mitra) 
 (Moderator: Saron Yitbarek)
-- 
+- Twitter profiles:
+    - https://twitter.com/saronyitbarek
+    - https://twitter.com/HaimantikaM
+    - https://twitter.com/fischesil
+    - https://twitter.com/tracypholmes
+    - https://twitter.com/rchung95 
+- random ideas/notes: make a personal website/blog, be active on social media/market yourself (e.g. twitter, even without followers), learning in public (twitch streaming yourself coding, etc)
+- "Personal branding doesn't always have to happen on social media"
+- your/a good community keeps you humble
+
+= Speaker Discussion (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, & Derek Binkley)
+(Moderator: Saron Yitbarek)
 
 
 
