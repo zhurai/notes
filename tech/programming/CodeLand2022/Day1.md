@@ -162,11 +162,12 @@
 
 = Speaker Discussion: (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, Derek Binkley)
 (Moderator: Saron Yitbarek)
-- 
-
-
-
-
-
-
+- Twitter profiles:
+    - https://twitter.com/DerekB_WI
+    - https://twitter.com/erinmikail
+    - https://twitter.com/kelseyhightower
+    - https://raspberrycheesecake.github.io/ (Hannah Hazi, no Twitter profile)
+- "there's going to be enough barriers from other people, don't put additional ones up yourself"
+- every time you learn a new skill, put it to use
+- what is something you can compliment in a code review
 
