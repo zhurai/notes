@@ -79,6 +79,8 @@ Developer Advocate for KendoReact at Progress
 Women and Tech: Why Representation Matters (Pachi)
 ======
 ## Notes
+- Twitter: https://twitter.com/pachicodes
+- very good tips for allies + good energy
 ## Sources
 
 Accessibility in Design (Bethany Jepchumba)
