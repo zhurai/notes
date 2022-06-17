@@ -169,7 +169,25 @@ Accessibility is Not a Mystery (Laurel Younis)
 
 There's More to Open Source than Code (Ramón Huidobro)
 ======
+non code contributions to open source
 ## Notes
+- Twitter: https://twitter.com/hola_soy_milk
+- Non Code Contributions
+- Open Source: Code, Community, Context (where it lives in the outer ecosystem)/Other OSS Projects, etc
+- Documentation - README, Development Setup, their website, troubleshooting, fixing typos
+- Blogging
+- Trying stuff out yourself (e.g. unique setups)
+- Issue Triage - if you help mitigate for the maintainers, this can help the developers 
+    - Taking issues and assigning tags/assign people/closing duplicate issues
+    - some repositories have issue triage guidelines
+- Code Reviews/Pull Requests - Asking Questions
+- Answering Questions e.g. Stackoverflow
+- Meetups
+- Hosting hackathons
+- Creating Assets
+- Giving Talks on Open source projects
+- Video Content - above talks, livestreaming
+- Website dedicated to the latest resources
 ## Sources
 
 Inclusive Web Development (Clifford Ouma)
