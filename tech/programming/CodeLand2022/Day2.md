@@ -218,6 +218,12 @@ Speaker Discussion (Ramón Huidobro & Clifford Ouma)
 ======
 (Moderator: Scott Hanselman)
 ## Notes
+- learning by exposure/putting yourself out there/asking for help
+- benefits of being self taught - more resources/democratized resources, learning from other's mistakes
+- make a first timer's issue/documentation (example for an intro documentation)
+- dealing with impostor syndrome - talking about it is good/everyone has the same feelings/etc
+- normalize unconventional path to getting qualified (e.g. some of them are still on their way to a degree/took many years to get the degree)
+- don't let an internet stranger ruin your day - block them and move on
 ## Sources
 
 Speaker Discussion: (Laurel Younis & Pachi)
