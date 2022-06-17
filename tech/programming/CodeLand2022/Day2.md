@@ -111,7 +111,60 @@ Accessibility in Design (Bethany Jepchumba)
 
 Accessibility is Not a Mystery (Laurel Younis)
 ======
+(100Devs)
 ## Notes
+- Twitter: https://twitter.com/LaurelYounisDev 
+- Everyone will affect disabilities (even "normal" people) e.g. aging (eyesight/skeletal+muscle/neuro psychological changes/sensory input changes)
+- Web Accessability - all users regardless of ability are able to access/use digital tools/websites/etc
+- Temporary/Permanent disabilities
+- Learning journey for accessibility
+- WCAG - (AAA most strict)/AA/A (least strict) standards
+    - most websites aim for AA
+    - A11y = accessiibility
+    - Assistive technology (AT) = devices/software/equipment used to maintain/ehnance funct. capabilities of people with disabilities
+- Learning
+    - Technical
+        - MDN web doc accessibility guide
+        - WAI accessibility tutorial (W3C)
+        - A11y project
+        - Deque University
+    - Build empathy
+        - get to know users
+        - Try using AT
+        - User Stories
+- Webaim - annual report of most used one million websitesz showing the most common accessibility issues
+    - color contrast
+    - miss alt text
+    - empty links/buttons
+    - missing form labels
+    - missing lang. attributes
+- Color Contrast
+    - difference in brightness in foreground/background 4.5:1 ratio
+- Missing alt text
+    - critical information to provide context
+    - Use specific and conscie language
+    - describe information conveyed not aesthetics
+    - Leave alt text empty for decorative images
+- Empty links/Buttons
+    - AT's won't read the buttons if it's empty
+    - add text content within empty button
+    - Add alt text that describes what the button is for/action it triggers
+    - purpose of link should be determined by the link text (Read more vs Read more about the company culture)
+- Missing form labels
+    - make sure every interactive element has a label
+    - use html label element
+    - use css if you need to hide things from people who can view the content
+- Compliance
+    - International law (Canada: ACA, AODA) (Europe: EU Web Accessibility Directive)
+    - US Law (ADA) (ADA + Section 508) (Unruh Act in California)
+- Testing/Tools
+    - Automated/Manual, Automated does not catch everything
+    - Lighthouse in Google Dev Tools (Automated)
+    - Axe dev tool chrome extension (Automated)
+    - Screen reader (Manual)
+    - Keyboard Access (Manual)
+    - User Testing (Manual) as early as possible
+- Find community/learn with others/weekly learning challenge (#a11y on twitter/etc)
 ## Sources
 
 There's More to Open Source than Code (Ramón Huidobro)
