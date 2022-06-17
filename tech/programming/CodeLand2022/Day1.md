@@ -1,6 +1,5 @@
 Keynote: Fireside Chat (Kelsey Hightower)
 ======
-
 ## Notes
 (Kelsy Hightower: Principle Engineer at Google)
 - He got interested in Retail/Food Service and took classes in college but decided not to go, but wanted a good career
