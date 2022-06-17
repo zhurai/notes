@@ -1,9 +1,13 @@
 Opening Comments (Scott Hanselman)
 ======
+## Notes
+## Sources
 
 Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
 ======
 (Microsoft Azure)
+## Notes
+- Twitter: https://twitter.com/nitya
 - Cloud Computing is about delivering computing services over the internet
 - outsource management to focus on innovation
 - where to start
@@ -34,10 +38,12 @@ Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
 - #30DaysToLearnIt (https://aka.ms/30DaysOfAzure) - Complete a challenge in 30 Days, get discounts on Certification
 - SWA Projects (https://aka.ms/msbuild-js-demo) - resume/personal website
 - Visit (http://aka.ms/codeland/2022) - Post a comment or tweet @nitya with your #30Days goal, get a customized sketchnote to help accountability
+## Sources
 
 
 Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
 ======
+## Notes
 - Twitter: https://twitter.com/techgirl1908
 - 10 commandments for navigating code reviews
     - Thou shalt not take it personally - some people are just jerks, some people lack the social skills to write a nice message, some are brutally honest, some people have bias, etc.  Fighting each of these individually will probably not be useful. 
@@ -50,42 +56,65 @@ Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
     - Thou shalt not be intimidated by the number of comments - e.g. when learning a new language
     - Thou shalt not repeat the same mistakes
     - Thou shalt embrace the nit (nitpickers)
+## Sources
 
 Design Systems for Developers (Kathryn Grayson Nanz)
 ======
+## Notes
+## Sources
 
 Women and Tech: Why Representation Matters (Pachi)
 ======
+## Notes
+## Sources
 
 Accessibility in Design (Bethany Jepchumba)
 ======
+## Notes
+## Sources
 
 Accessibility is Not a Mystery (Laurel Younis)
 ======
+## Notes
+## Sources
 
 There's More to Open Source than Code (Ramón Huidobro)
 ======
+## Notes
+## Sources
 
 Inclusive Web Development (Clifford Ouma)
 ======
+## Notes
+## Sources
 
 Speaker Discussion (Ramón Huidobro & Clifford Ouma)
 ======
 (Moderator: Scott Hanselman)
+## Notes
+## Sources
 
 Speaker Discussion: (Laurel Younis & Pachi)
 ======
 (Moderator: Scott Hanselman)
+## Notes
+## Sources
 
 Speaker Discussion: Bethany Jepchumba & Kathryn Grayson Nanz
 ======
 (Moderator: Scott Hanselman)
+## Notes
+## Sources
 
 Automation as Open Source (Jon Peck)
 ======
+## Notes
+## Sources
 
 Keynote: Fireside Chat with Tracy Chou
 ======
+## Notes
+## Sources
 
 Sources
 ======
