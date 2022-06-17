@@ -271,8 +271,30 @@ Speaker Discussion: Bethany Jepchumba & Kathryn Grayson Nanz
 
 Automation as Open Source (Jon Peck)
 ======
+(GitHub)
 ## Notes
+- Twitter: https://twitter.com/peckjon
+- Code + Automation
+- CI/CD continous integration/continous deployment: code -> build -> test -> deploy
+    - more frequent deployments
+    - faster commit to deploy
+    - coding everything and then build/test/deploy is very slow and inefficient
+- Automate away the boring things (e.g. resize images, check for vuln, retrain ML models, lint new code, etc)
+- Github's solution: put it into the repository (Actions Tab in GitHub) -> Automation-as-Code
+    - reusable, versionable, reliable
+    - decreases failure on deployments
+    - faster recovery
+- Community powered (programming is a team sport)
+    - Actions Marketplace
+        - dev tools/frameworks (docker/twilio/gatsby,/etc)
+        - ci/cd, test,automation (ansible/mabl, servicenow, jfrog, applitools)
+        - monitoring/observability/security (aqua, datadog, lightstep, anchore, veracode)
+        - cloud deployments/infra - AWS/Azure, openshift, digitaocean, tencent cloud, hashicorp, etc
 ## Sources
+- https://docs.google.com/presentation/d/1rvYULXN_n9tYhJOZVIKV-O6OxA-o94QwHhR6sf8vFNI/edit
+- Actions overview - https://github.com/features/actions
+- Actions quickstart - https://docs.github.com/en/actions/quickstart
+- Toy Repo: CoreML + GitHub Actions - https://github.com/peckjon/coreml_ghactions
 
 Keynote: Fireside Chat with Tracy Chou
 ======
