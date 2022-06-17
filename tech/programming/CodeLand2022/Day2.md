@@ -1,6 +1,6 @@
-
 Opening Comments (Scott Hanselman)
 ======
+- 
 
 Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
 ======
@@ -47,4 +47,4 @@ Keynote: Fireside Chat with Tracy Chou
 Sources
 ======
 - https://community.codenewbie.org/codeland
-- 
+- https://www.youtube.com/watch?v=00x40QXsYWA
