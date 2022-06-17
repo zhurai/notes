@@ -57,6 +57,7 @@ Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
     - Thou shalt not repeat the same mistakes
     - Thou shalt embrace the nit (nitpickers)
 ## Sources
+- https://community.codenewbie.org/codeland2022/keynote-ten-commandments-of-navigating-code-reviews-with-angie-jones-1b05
 
 Design Systems for Developers (Kathryn Grayson Nanz)
 ======
@@ -75,6 +76,8 @@ Developer Advocate for KendoReact at Progress
 - Style Guides - downloadable brand assets and documentation (brand colors/fonts), logos/variations, brand specific characters/icons and instructions for their use (consistent look and feel)
 - Tone of voice guide - capturing a feeling/tone is hard, but how you do it is very important to the users (small things like buttons/etc can matter a lot) e.g. let's go vs start
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-design-systems-for-developers-3lo5
+- https://www.youtube.com/watch?v=79BM7eVgI60
 
 Women and Tech: Why Representation Matters (Pachi)
 ======
@@ -82,6 +85,8 @@ Women and Tech: Why Representation Matters (Pachi)
 - Twitter: https://twitter.com/pachicodes
 - very good tips for allies + good energy
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-women-and-tech-why-representation-matters-304
+- https://www.youtube.com/watch?v=pkqdBaUZfBY
 
 Accessibility in Design (Bethany Jepchumba)
 ======
@@ -106,8 +111,9 @@ Accessibility in Design (Bethany Jepchumba)
 - Transcription (speech to text) - e.g. microsoft word to write from voice
 - Practice Empathy 
     - put yourself in your user's shoes
-
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-accessibility-in-design-1cnb
+- https://www.youtube.com/watch?v=nc42CFGCOHI
 
 Accessibility is Not a Mystery (Laurel Younis)
 ======
@@ -166,6 +172,8 @@ Accessibility is Not a Mystery (Laurel Younis)
     - User Testing (Manual) as early as possible
 - Find community/learn with others/weekly learning challenge (#a11y on twitter/etc)
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-accessibility-is-not-a-mystery-3eef
+- https://www.youtube.com/watch?v=kZUJF2YNEz0
 
 There's More to Open Source than Code (Ramón Huidobro)
 ======
@@ -189,6 +197,8 @@ non code contributions to open source
 - Video Content - above talks, livestreaming
 - Website dedicated to the latest resources
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-theres-more-to-open-source-than-code-1ne8
+- https://www.youtube.com/watch?v=9y5CYVr78g0
 
 Inclusive Web Development (Clifford Ouma)
 ======
@@ -213,6 +223,8 @@ Inclusive Web Development (Clifford Ouma)
     - Avoid common accessibility mistakes (e.g. low contrast, language attr, form labels, empty links, wrong alt text)
     - Automate accessibility tests (lighthouse, wave browser extension, pa11y cli, axe-core cli)
 ## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-inclusive-web-development-5h59
+- https://www.youtube.com/watch?v=J608Fj5V3og
 
 Speaker Discussion (Ramón Huidobro & Clifford Ouma)
 ======
@@ -324,6 +336,7 @@ Surviving and Thriving as an Idealist In Tech
     - take care of yourself
     - identify what is important (personally)
 ## Sources
+- https://community.codenewbie.org/codeland2022/keynote-a-fireside-chat-with-tracy-chou-2mo4
 
 Sources
 ======
