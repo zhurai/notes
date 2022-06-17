@@ -39,7 +39,7 @@ Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
 - SWA Projects (https://aka.ms/msbuild-js-demo) - resume/personal website
 - Visit (http://aka.ms/codeland/2022) - Post a comment or tweet @nitya with your #30Days goal, get a customized sketchnote to help accountability
 ## Sources
-
+- https://speakerdeck.com/nitya/jumpstart-your-developer-journey-to-cloud-plus-ai
 
 Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
 ======
