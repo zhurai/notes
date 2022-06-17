@@ -33,6 +33,18 @@ Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
 
 Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
 ======
+- Twitter: https://twitter.com/techgirl1908
+- 10 commandments for navigating code reviews
+    - Thou shalt not take it personally - some people are just jerks, some people lack the social skills to write a nice message, some are brutally honest, some people have bias, etc.  Fighting each of these individually will probably not be useful. 
+    - Thou shalt not marry the code - don't become attached (married) to the code, you can look like you are emotional/defensive
+    - Thou shalt consider all feedback - once detached, it becomes easier to hear what the reviewer said
+    - Thou shalt articulate your rationale - you don't need to automatically assume the person right, they may be just throwing ideas out there. Consider their suggestion, but articulate why (and post this in the actual post review publically)
+    - Thou shalt be willing to compromise - don't get into a heated back and forth exchange, offer to collaborate in person (e.g. whiteboarding)
+    - Thou shalt contribute to others' code reviews - if you're always the submitter and not just the reviewer, you look like a junior developer (also allows you to look at other's code and become a stronger programmer)
+    - Thou shalt treat submitters how thou wants to be treated - don't need to be a jerk/be petty when they do it (be the bigger person)
+    - Thou shalt not be intimidated by the number of comments - e.g. when learning a new language
+    - Thou shalt not repeat the same mistakes
+    - Thou shalt embrace the nit (nitpickers)
 
 Design Systems for Developers (Kathryn Grayson Nanz)
 ======
