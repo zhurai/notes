@@ -193,6 +193,25 @@ non code contributions to open source
 Inclusive Web Development (Clifford Ouma)
 ======
 ## Notes
+- Twitter: https://twitter.com/clifford_ouma
+- Accessibility/equity/equality/inclusivity
+    - accessibility - develop for people w/ various abilities
+    - inclusivity - develop. while takin ginto acct. perspective/personal identifiers
+    - equality - each individual given the same amount of resources
+    - equity - each person is given exact resources req. to reach the same goal
+- state of accessibility 
+    - ~13% of the world has some form of disability worldwide (~1 billion people) (1/8 people have some form of disability)
+    - 50.8 errors per 1 web page (WEBAIM foundation)
+    - Complication: self taught developers/online learning -> some key topics (a11y) might not be covered 
+- building for the margins 
+    - keep traditionally excluded groups top of mind
+    - be aware of best case/worst case scenarios
+    - building for accessibility is a tide that lifts all ships
+- Change priority to be accessible first development from the start (instead of an afterthought)
+- How to make the website accessible
+    - Follow official guidelines (WCAG and implement guidelines)
+    - Avoid common accessibility mistakes (e.g. low contrast, language attr, form labels, empty links, wrong alt text)
+    - Automate accessibility tests (lighthouse, wave browser extension, pa11y cli, axe-core cli)
 ## Sources
 
 Speaker Discussion (Ramón Huidobro & Clifford Ouma)
