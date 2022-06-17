@@ -182,3 +182,7 @@ Speaker Discussion: (Kelsey Hightower, Hannah Hazi, Erin Mikail Staples, Derek B
 - every time you learn a new skill, put it to use
 - what is something you can compliment in a code review
 
+Sources
+======
+- https://community.codenewbie.org/codeland
+- https://www.youtube.com/watch?v=nIjDL6TRbMo
