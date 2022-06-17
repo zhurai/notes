@@ -230,6 +230,16 @@ Speaker Discussion: (Laurel Younis & Pachi)
 ======
 (Moderator: Scott Hanselman)
 ## Notes
+- formalizing raising hand/virtual hand can help give order in conversations (hard to know when someone is done speaking online/virtually, can't see all of the body language)
+- important not to exclude other people
+- how to recover from excluding the person
+    - Saying sorry to the person
+    - Ask how they can do better
+    - follow the golden rule
+    - "Treat others as they want to be treated"
+- sponsoring someone else (e.g. their idea) and then stepping aside costs nothing and is good
+- learn to be your own best advocate
+- be part of the solution, don't be part of the problem
 ## Sources
 
 Speaker Discussion: Bethany Jepchumba & Kathryn Grayson Nanz
