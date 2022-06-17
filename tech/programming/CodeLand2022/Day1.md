@@ -1,5 +1,7 @@
 Keynote: Fireside Chat (Kelsey Hightower)
 ======
+
+## Notes
 (Kelsy Hightower: Principle Engineer at Google)
 - He got interested in Retail/Food Service and took classes in college but decided not to go, but wanted a good career
 - Instead got A+ Certification
@@ -33,18 +35,25 @@ Keynote: Fireside Chat (Kelsey Hightower)
     - "You are not your job" "technology doesn't replace humans" 
 - Figure out how you can put your own personality on top of the work, you stand out as an individual, and that is how you get noticed 
 - "Enjoy every minute of this"
+## Sources
+- https://community.codenewbie.org/codeland2022/keynote-a-fireside-chat-with-kelsey-hightower-5db7
 
 Redefining Your Programming Purpose (Tracy P Holmes)
 ======
+## Notes
 (Developer Advocate)
 - "Slowly is the fastest way to get where you want to be" - Andre De Shields
 - Went from coding (C++/.NET) to IT (Sysadmin) back to coding (specifically python)
 - Don't know how to ask for help but didn't know enough to know what she didn't know
 - "If what you want doesn’t exist, create it"
 - She has very good quotes
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-redefining-your-programming-purpose-5aid
+- https://www.youtube.com/watch?v=_V6IBBOW6P8
 
 Celibrate You're Misteaks (Joe Glombek)
 ======
+## Notes
 - TDODAR decision making model
     - Time - How much time do we have
     - Diagnosis - What is the problem
@@ -62,12 +71,20 @@ Celibrate You're Misteaks (Joe Glombek)
     - One-to-one's talking about progress - "Mistakes are progress as well"
     - Git commit history
     - Code in public (including open source projects)
-    
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-celibrate-youre-misteaks-3g5g
+- https://www.youtube.com/watch?v=RE8EUaj1SbE
+
 Next-Gen Inclusivity: How Gen Z Can Make Real Change in Tech (Haimantika Mitra)
 ======
+## Notes
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-next-gen-inclusivity-how-gen-z-can-make-real-change-in-tech-17na
+- https://www.youtube.com/watch?v=EnAJY44MAiA
 
 Teaching Through Code Review (Derek Binkley)
 ======
+## Notes
 - too often it is a cursory process or contentious process
 - how to get a learning/collaborative process out of this
 - purpose of code review is to prevent bugs and ensure consistency
@@ -83,9 +100,13 @@ Teaching Through Code Review (Derek Binkley)
 - Accidental code review / incidental pair programming can be helpful
 - "Development is a collaborative task, done between humans, please treat others with humility, kindness and be nice to others, even if there are problems "in production stages""
 - Ask for help if needed (hopefully there is an environment where collaboration is encouraged)
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-teaching-through-code-review-420n
+- https://www.youtube.com/watch?v=lNEfXMatayw
 
 The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
 ======
+## Notes
 - "Working in tech doesn't mean that our personal values cease to exist"
 - Pop culture perpetrated tropes that ethics is an idealistic myth rather than reality
 - Current problems
@@ -118,9 +139,13 @@ The Shared Responsibility of Tech Ethics (Erin Mikail Staples)
     - contribute to culture creation
     - pave the way for someone new
     - help the community around you
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-the-shared-responsibility-of-tech-ethics-4i4h
+- https://www.youtube.com/watch?v=EMIdVGFWyKc
 
 A Programmer's Guide to Mental Health (Raymond Chung)
 ======
+## Notes
 - "It's okay to be not okay"
 - Imposter Syndrome - first job, didn't want to be exposed as a fraud, was too hard on himself which created bad habits
 - you will experience Imposter Syndrome (on and off) during your career (it's how you know you're growing)
@@ -136,12 +161,20 @@ A Programmer's Guide to Mental Health (Raymond Chung)
     - Organize your day with a set agenda
     - Get 1% better each day (focus on the process rather than the end goal, create a consistent habit via a routine)
     - Keep a social chat going!
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-a-programmers-guide-to-mental-health-54bn
+- https://www.youtube.com/watch?v=6y1ssqshhiU
 
 How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
 ======
+## Notes
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-how-i-tracked-my-pregnancy-with-python-emojis-4cef
+- https://www.youtube.com/watch?v=8yXb-AMgzh8
 
 I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
 ======
+## Notes
 - Main job for programmers is to solve problems
 - develop algorithms to allow us to provide solutions
 - Basically technical recipies
@@ -156,6 +189,9 @@ I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
     - show the beginning and the end
     - simplified/make it easy to understand
 - makes it easier to translate to the target language
+## Sources
+- https://community.codenewbie.org/codeland2022/on-demand-talk-i-think-therefore-i-code-an-introduction-to-pseudocode-lj7
+- https://www.youtube.com/watch?v=jWpYHoTZyRU
 
 Speaker Discussion (Silvia España, Raymond Chung, Tracy P Holmes, & Haimantika Mitra) 
 ======
