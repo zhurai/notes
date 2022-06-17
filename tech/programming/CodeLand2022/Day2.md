@@ -298,7 +298,31 @@ Automation as Open Source (Jon Peck)
 
 Keynote: Fireside Chat with Tracy Chou
 ======
+Surviving and Thriving as an Idealist In Tech
 ## Notes
+- Twitter: https://twitter.com/triketora
+- Twitter: https://twitter.com/bendhalpern
+- Inclusion/Systemic Bias 
+- "Internalize Success/Externalize Failure" vs "Internalize Failure/Externalize Success"
+    - "It's a common thing for women to internalize failure and externalize success, compared to men, who might internalize success and externalize failure"
+- 10 years ago (in diversity) vs now (in diversity) - at least talking about it but have not followed through (yet)
+- Starting out right now
+    - understand that you will have tradeoffs to make
+    - you will never have everything perfect
+    - can be frustrating when you are compromising
+    - Nothing is perfect, pragmatism is good to have
+- Healthy Tradeoff vs unhealthy compromise 
+    - no easy answer (very contexual/depends on the person)
+    - if feeling for too long (maybe 6+ months) that you're unhappy constantly, then reconsider the parameters that need to be changed
+    - the amount of time can change in general
+- growth can mask a lot of issues
+- talk to other people to understand systemic issues (if other people have the same experience as you do, that your experiences aren't unique/etc)
+    - be each other's support network
+- be ready to learn new skills any time
+- getting into tech final words of wisdom 
+    - "tech industry needs more idealists to be uncomfortable and to go in new directions"
+    - take care of yourself
+    - identify what is important (personally)
 ## Sources
 
 Sources
