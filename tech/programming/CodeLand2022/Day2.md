@@ -85,7 +85,28 @@ Women and Tech: Why Representation Matters (Pachi)
 
 Accessibility in Design (Bethany Jepchumba)
 ======
+(Microsoft)
 ## Notes
+- Twitter: https://twitter.com/bethanyjep
+- "The power of the Web is in its universality"
+- Examples of Disabilities
+    - Mobility/motor (might be unable to type)
+    - Visual/vision (might be unable to see, color blindness)
+    - Cognitive learning/intellectual
+    - Auditory/hearing (might be unable to hear)
+- Colour Contrast - difference between darkness/light on surfaces (e.g. green and purple) includes text on background
+    - contrast of 4.5:1 is advisable for normal text
+    - identify contrast via adobe contrast checker (https://color.adobe.com/)
+- Colour + additional information to convey meanings
+    - colorblind might not be able to see the difference between color
+    - e.g. an icon to signify an error
+- Alternative text 
+    - written image description in place of images
+    - useful for people with not as good internet as well
+- Transcription (speech to text) - e.g. microsoft word to write from voice
+- Practice Empathy 
+    - put yourself in your user's shoes
+
 ## Sources
 
 Accessibility is Not a Mystery (Laurel Younis)
