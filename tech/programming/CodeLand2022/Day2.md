@@ -27,8 +27,13 @@ Begin your Developer Journey to Cloud + AI (Nitya Narasimhan)
     - set a #30days goal
     - make a roadmap
     - capture progress
-- 
-- 
+- Share your learnings with the community
+	- Open source your project - help others explore and reuse it
+	- Blog your learnings - good reference for you and others
+	- Mentor one person - try pair programming on their project
+- #30DaysToLearnIt (https://aka.ms/30DaysOfAzure) - Complete a challenge in 30 Days, get discounts on Certification
+- SWA Projects (https://aka.ms/msbuild-js-demo) - resume/personal website
+- Visit (http://aka.ms/codeland/2022) - Post a comment or tweet @nitya with your #30Days goal, get a customized sketchnote to help accountability
 
 
 Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
