@@ -60,7 +60,20 @@ Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
 
 Design Systems for Developers (Kathryn Grayson Nanz)
 ======
+Developer Advocate for KendoReact at Progress
 ## Notes
+- Twitter: https://twitter.com/kathryngrayson
+- Design systems are for developers too! - improve your understands of how designs/prototypes translate to code
+- What is a design system - collection of interconnected visual elements, organized and documented for easy reference
+- What is the purpose - Provide visual/language consistency
+- Visual consistency between pages/devices - helps when there's multiple developers working on different pages
+- Language consistency - everyone speaking the same words to describe the same thing/standardize
+- Design tokens - smallest parts of design system - usually correspond directly to css (e.g. border-radius-regular), use these as variables, brand colors/fonts
+- Icon Libraries - choesive set of icons
+- Component Libraries - collection of all components used in the app and documentation (developer/designer communication)
+- Grid Systems - guidelines and structure for page layouts (idea of using a grid to fit information is very old in the design space) (usually UI based). Useful for visual consistency
+- Style Guides - downloadable brand assets and documentation (brand colors/fonts), logos/variations, brand specific characters/icons and instructions for their use (consistent look and feel)
+- Tone of voice guide - capturing a feeling/tone is hard, but how you do it is very important to the users (small things like buttons/etc can matter a lot) e.g. let's go vs start
 ## Sources
 
 Women and Tech: Why Representation Matters (Pachi)
