@@ -246,6 +246,27 @@ Speaker Discussion: Bethany Jepchumba & Kathryn Grayson Nanz
 ======
 (Moderator: Scott Hanselman)
 ## Notes
+- Removing bias - you can absolutely build bias in design systems
+- we only have our own lived experience
+    - so if we build things based on our own knowledge
+    - then you are building in bias into the systems
+- Certification isn't everything, you need to do it (you need the experience)
+    - e.g. making a site accessible for something local/NGO/churches/etc
+    - can learn design this way by making a design system for it/etc
+- takeaway: knowledge is good and always useful, but you need to use it/have the experience of using it
+- design system beginning -> okay I chose this color for a component, then go save it into a file, then you can compare it later to see if it makes sense
+    - incremental
+- learn something new every day
+- learning design
+    - learn enough design to be dangerous
+    - The Non-Designer's Design Book (https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
+    - https://learnui.design/newsletter.html 
+    - can also make designs, showing them to other people, getting recommendations/etc and refining
+    - "design is a science"
+- common thread - intentionality, deliberate practice
+- sort list of learning by impact
+- "What is the problem I am fixing today"
+- look at the accessibility tools and try to use them (put your foot in someone else's shoes)
 ## Sources
 
 Automation as Open Source (Jon Peck)
