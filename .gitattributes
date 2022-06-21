@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 interviews/* filter=git-crypt diff=git-crypt
+journal/* filter=git-crypt diff=git-crypt
