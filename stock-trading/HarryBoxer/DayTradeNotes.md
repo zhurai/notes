@@ -13,7 +13,9 @@
 - pre market gappers (NASDAQ, premarket activity, market leaders/advancers/decliners)
 - "if news is powerful, it usually results in a gap and followthrough"
 == Patterns he looks for
-
+- quick pullback/quick consolidation (sharply) usually leads to more upside
+    - buy after the first pullback
+    - his stop out generally if it passes through a previous support (a previous high)
 = Process
 1. Puts the stocks premarket on his list2
 2. lots at the stocks immediately after market opens
