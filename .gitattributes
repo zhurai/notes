@@ -3,5 +3,4 @@
 journal/personal-journal/* filter=git-crypt diff=git-crypt
 prof/* filter=git-crypt diff=git-crypt
 prof/interviews/* filter=git-crypt diff=git-crypt
-prof/wins/* filter=git-crypt diff=git-crypt
-prof/win-journal/* filter=git-crypt diff=git-crypt
+prof/interviews-prep/* filter=git-crypt diff=git-cryptg
