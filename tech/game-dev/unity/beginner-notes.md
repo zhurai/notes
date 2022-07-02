@@ -22,6 +22,11 @@
 
 # Term Notes
 - Real Time - real time rendering
+- Game Engine - point of convergence for all ingredients for creating a game (3D Models, Textures, Audio, Scripts, Animation, 2D Sprites, etc)
+  - games: creator designs gameplay
+  - animation: creator devises the animation being recorded
+  - VR architectural visualization: creator builds the environment
+  - DOES NOT: do 3D creation, 2D creation, audio creation, IDE type work
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -29,4 +34,5 @@
 - https://learn.unity.com/tutorial/get-started-with-the-unity-hub
 - https://learn.unity.com/tutorial/get-started-in-the-unity-editor
 - https://learn.unity.com/tutorial/what-is-real-time
+- https://learn.unity.com/tutorial/what-is-unity
 
