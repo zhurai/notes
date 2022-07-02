@@ -20,8 +20,13 @@
   - Final release = f
 - Ideally use LTS + final releases
 
+# Term Notes
+- Real Time - real time rendering
+
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
 - https://learn.unity.com/tutorial/get-started-with-the-unity-hub
 - https://learn.unity.com/tutorial/get-started-in-the-unity-editor
+- https://learn.unity.com/tutorial/what-is-real-time
+
