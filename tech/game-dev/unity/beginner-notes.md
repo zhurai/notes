@@ -38,9 +38,9 @@
 - Unity uses a **Y-up coordinate system**
   - y = vertical plane
   - x/z = horizontal plane
-- can make GameObjects the child of the other (making any transform/etc applied to the child GameObjects as well)
 ## Notes on GameObjects
 - Good practice: create **empty** gameObject as a placeholder/container for other GameObjects (for a more complex object) 
+- can make GameObjects the child of the other (making any transform/etc applied to the child GameObjects as well)
 ## Directional Light 
 - rotate to change
 - position/scale options do not affect the directional light
@@ -48,7 +48,8 @@
 ## Types of Components
 - Transform - location/rotation/scale
 - RigidBody - give Object physical properties (for gravity/other GameObjects) 
-- 
+- Materials - defines the surface characteristics of objects (change visual appearance)
+- Physic Material - give Object more physical characteristics (bouncing, friction, drag, etc) **does not change visual properties**
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -62,4 +63,5 @@
 - https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene
 - https://learn.unity.com/tutorial/create-a-structure-with-primitives
 - https://learn.unity.com/tutorial/add-components-to-3d-gameobjects
+- https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects
 
