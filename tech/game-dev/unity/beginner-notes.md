@@ -45,6 +45,10 @@
 - rotate to change
 - position/scale options do not affect the directional light
 - color changes the color of the light (not the sky)
+## Types of Components
+- Transform - location/rotation/scale
+- RigidBody - give Object physical properties (for gravity/other GameObjects) 
+- 
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -57,4 +61,5 @@
 - https://learn.unity.com/tutorial/who-are-real-time-creators
 - https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene
 - https://learn.unity.com/tutorial/create-a-structure-with-primitives
+- https://learn.unity.com/tutorial/add-components-to-3d-gameobjects
 
