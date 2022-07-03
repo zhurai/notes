@@ -39,6 +39,12 @@
   - y = vertical plane
   - x/z = horizontal plane
 - can make GameObjects the child of the other (making any transform/etc applied to the child GameObjects as well)
+## Notes on GameObjects
+- Good practice: create **empty** gameObject as a placeholder/container for other GameObjects (for a more complex object) 
+## Directional Light 
+- rotate to change
+- position/scale options do not affect the directional light
+- color changes the color of the light (not the sky)
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -50,4 +56,5 @@
 - https://learn.unity.com/tutorial/what-can-unity-do
 - https://learn.unity.com/tutorial/who-are-real-time-creators
 - https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene
+- https://learn.unity.com/tutorial/create-a-structure-with-primitives
 
