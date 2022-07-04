@@ -9,7 +9,8 @@
 ## Editor Controls
 - change view angle: alt/option + left click + move cursor
 - zoom: trackpad/scroll wheel/hold alt button
-
+- orbit (360 rotation): click alt button and hand button and hold
+- 
 # Editor Versioning Notes
 - End of the version (e.g. **2021.2.6f1**)
   - Alpha = a
@@ -78,4 +79,3 @@
 - https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
 - https://learn.unity.com/tutorial/get-3d-assets
 - https://learn.unity.com/tutorial/challenge-the-floor-is-lava
-- https://learn.unity.com/tutorial/publish-your-project
