@@ -41,6 +41,8 @@
 ## Notes on GameObjects
 - Good practice: create **empty** gameObject as a placeholder/container for other GameObjects (for a more complex object) 
 - can make GameObjects the child of the other (making any transform/etc applied to the child GameObjects as well)
+- Prefab - acts as a template of GameObjects
+- Instances - copies of prefabs
 ## Directional Light 
 - rotate to change
 - position/scale options do not affect the directional light
@@ -50,6 +52,15 @@
 - RigidBody - give Object physical properties (for gravity/other GameObjects) 
 - Materials - defines the surface characteristics of objects (change visual appearance)
 - Physic Material - give Object more physical characteristics (bouncing, friction, drag, etc) **does not change visual properties**
+## Prefab Notes
+- In Hierarchy, prefabs are shown as blue
+- Override prefab (e.g. for variants): edit it without going into prefab mode
+- Creating variants: drag edited version into Project folder (pick "Prefab Variants" when asked)
+- Prefab Variants seems similar to object inheritence in programming
+  - if you edit something in the first/original prefab that is not an overrided component/value in the variants, then it will change the variants too
+- can nest prefabs within other prefabs (when an object needs to be part of another)
+  - e.g. a Tree with fruits (with multiple different fruits)
+  - acts like a more complex GameObject (attached together), unless the individual prefabs have their own Physic Material
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -64,4 +75,5 @@
 - https://learn.unity.com/tutorial/create-a-structure-with-primitives
 - https://learn.unity.com/tutorial/add-components-to-3d-gameobjects
 - https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects
+- https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
 
