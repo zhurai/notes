@@ -76,4 +76,6 @@
 - https://learn.unity.com/tutorial/add-components-to-3d-gameobjects
 - https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects
 - https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
-
+- https://learn.unity.com/tutorial/get-3d-assets
+- https://learn.unity.com/tutorial/challenge-the-floor-is-lava
+- https://learn.unity.com/tutorial/publish-your-project
