@@ -79,3 +79,4 @@
 - https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
 - https://learn.unity.com/tutorial/get-3d-assets
 - https://learn.unity.com/tutorial/challenge-the-floor-is-lava
+- https://learn.unity.com/tutorial/get-started-with-scripts
