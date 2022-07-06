@@ -1,6 +1,6 @@
 # Danger Close - Sollicitatio
 ## Type = Siege
-## Timeline Notes
+## Phase Notes
 ### Passive (All Phases)
 - Skill: removes all debuffs
 - Aura: Damage Taken +25%, Skill Seal
