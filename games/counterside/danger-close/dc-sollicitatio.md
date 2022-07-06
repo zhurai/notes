@@ -20,6 +20,16 @@
 - ignores current HP% Phase, and goes straight for the ship (ignores Towers)
 - Skill: carpet bombs the area
 - Ultimate: when reaches ship (instantly destroys it)
+## Timeline Notes
+- **2:52** Skill bar full
+- **2:50** Bombs planted
+- **2:49-2:48?** Bombs triggered
+- **2:36** Skill bar full
+- **2:34** Bombs planted
+- **2:33-2:32?** Bombs triggered
+- **2:20** Skill bar full
+- **2:16?** Bombs planted
+- **2:14?** Bombs triggered
 ## Recommendations
 ### Units
 - **Gabriel** w/ Offtank Striker: Tank (Gabriel is a Tower + Anti Siege RES)

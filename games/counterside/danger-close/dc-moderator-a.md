@@ -35,6 +35,18 @@
   - success: stunned
 - attacks the ship ignoring others
 - Prydwen considers this Phase 3
+## Timeline Notes
+- (Assuming no debuffs, without bursting to 33%, etc)
+- **2:50**: Phase 1 Special (scan into bombs)
+- **2:38**: deploying gaeun here (assuming melee died at 2:32) = pseudo proximity check until 2:26 **(arrives at 2:31 and cancels check until 2:26)**
+- **2:24-26**: if a melee dies/retreats, then melee check will occur (avoid bombs, avoid fog) (DPS Check cancels proximity check)
+- **2:24-2:23**: New Detroit S2 here (12 seconds -50% DEF)
+- **2:23**: Phase 1 Special (scan into bombs) 
+- **2:18**: Enable ultimates?
+- **2:18**: DPS Check appears
+- **2:12**: DPS Check ends
+- **1:53**: Boss ultimate (missile barrage, knock units forward, high damage)
+- **1:33**: DPS Check
 ## Recommendations
 ### Units
 - Tanks: Chifuyu/Roy, Lin Xien (with specialized min max compositions), Defenders (if cannot survive)
@@ -48,10 +60,38 @@
 - can avoid bombs by delaying deployment
 - can iframe knockback/damage from ultimate at 1:55
 - evade attacks vs boss: 801+ evasion
-- sure fire vs boss: 1875+ hit w/ 50% evasion debuff
+- sure fire vs boss: 1875+ hit w/ 50% evasion debuff    
+- Prydwen mentions by leaving boss on proximity check at 2:26, the boss would not use skills during it, and DPS check at 2:18 will cancel proximity check
+### Other Notes (Lin Xien Min Max)
+- Lin Xien: 
+  - Gear
+    - Hummingbird CDR Hand
+    - Devoted CDR Armor
+    - Sincere Movement CDR
+    - T7 Gordias Movement CDR
+  - Stats
+    - Crit Damage: +50% (default 50%)
+    - Skill Haste: +61%
+    - Mechanic Damage Reduction: 29.4%
+    - Ground Damage Reduction: 17.6%
+    - Ranged Damage Reduction: 34.4% (default 10%)
+    - HP: ?
+    - ATK: ?
+    - DEF: 314 (23.91%)
+    - Crit: 480 (23.98%)
+    - Hit: 338 (20.55%)
+    - EVA: 922 (53.53%) - must exceed 50.02% to dodge attacks
+- Kim Hana: Level 8 Crit 11   (Seems like this doesn't matter if you have rosaria on spirit? or sobin on atk+bullet?)
+- Rosaria: Spectral Blaze?
+- Sky: ?
+- Tarasqaue: Spectral Blaze?
+- Kim Sobin: Spectral Blaze?
+- Lucrecia: Spectral Spirit?
+- Karin Wong: Spectral Blaze?
+- Seo yoon: any
 # Sources
 - https://www.prydwen.co/guides/danger-close-mod-a/ (Post rework, notes taken on 7/2022)
 - https://www.youtube.com/watch?v=7_wHMv1vnfc
 - https://www.youtube.com/watch?v=I69qezJ6dqI
 - https://www.youtube.com/watch?v=jY6bBza8Zu4
-- 
+- https://arca.live/b/gauntlet/50145124?mode=best&p=1
