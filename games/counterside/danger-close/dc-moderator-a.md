@@ -94,4 +94,8 @@
 - https://www.youtube.com/watch?v=7_wHMv1vnfc
 - https://www.youtube.com/watch?v=I69qezJ6dqI
 - https://www.youtube.com/watch?v=jY6bBza8Zu4
+- https://www.youtube.com/watch?v=86-QOvmDhjI
+- https://www.youtube.com/watch?v=NqAC0ERlC1w
+- https://www.youtube.com/watch?v=hl1nPMvWOsQc
 - https://arca.live/b/gauntlet/50145124?mode=best&p=1
+
