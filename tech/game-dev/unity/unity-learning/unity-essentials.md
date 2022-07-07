@@ -1,4 +1,3 @@
-
 # Interface Notes
 ## User Interface
 - "Project Window" is where all the assets are located
@@ -10,8 +9,7 @@
 - change view angle: alt/option + left click + move cursor
 - zoom: trackpad/scroll wheel/hold alt button
 - orbit (360 rotation): click alt button and hand button and hold
-- 
-# Editor Versioning Notes
+## Editor Versioning Notes
 - End of the version (e.g. **2021.2.6f1**)
   - Alpha = a
   - Beta = b
