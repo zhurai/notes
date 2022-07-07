@@ -27,17 +27,17 @@ From looking at the simulator, you would notice how many swaps are needed
   - Specifically 3 switch, 2 switch, 2 switch, 3 switch
 ## How this looks in practice for Normal version
 - 15/50:
-![15/50 Image]()
+  - ![15/50 Image](ak-wrex6-phase1.png)
 - 27/50:
-![27/50 Image]()
+  - ![27/50 Image](ak-wrex6-phase2.png)
 - 39/50:
-![39/50 Image]()
+  - ![39/50 Image](ak-wrex6-phase3.png)
 
 ## How this looks in practice for Raid version
 - 15/50:
-![15/50 Image]()
+  - ![15/50 Image](ak-wrex6r-phase1.png)
 - 27/50:
-![27/50 Image]()
+  - ![27/50 Image](ak-wrex6r-phase2.png)
 - 39/50:
-![39/50 Image]()
+  - ![39/50 Image](ak-wrex6r-phase3.png)
 
