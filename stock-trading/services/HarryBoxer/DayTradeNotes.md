@@ -21,4 +21,4 @@
 2. lots at the stocks immediately after market opens
 3. puts them on the list "leading % gainers on NASDAQ/etc"
 4. the ones that are spurting in volume stand out (sideways for awhile then spike) "price volume surges"
-5. **Without volume, price surges are mea2ningless
+5. **Without volume, price surges are meaningless**
