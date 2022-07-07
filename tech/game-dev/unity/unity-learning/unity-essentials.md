@@ -61,6 +61,18 @@
   - e.g. a Tree with fruits (with multiple different fruits)
   - acts like a more complex GameObject (attached together), unless the individual prefabs have their own Physic Material
 
+# Scripting Notes
+## Initialization
+- created class extends MonoBehaviour
+- contains 2 functions
+  - void Start() - called once at the beginning of the game 
+  - void Update() - called every frame of the game
+## Unity Functions
+- Debug.Log() - Logging data to console
+## C# Language Functions
+- variable definition
+  - \[public/private\] \[variabletype(e.g. string)\] \[variable name\] 
+
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
@@ -78,3 +90,4 @@
 - https://learn.unity.com/tutorial/get-3d-assets
 - https://learn.unity.com/tutorial/challenge-the-floor-is-lava
 - https://learn.unity.com/tutorial/get-started-with-scripts
+- https://learn.unity.com/tutorial/code-in-the-default-script
