@@ -28,16 +28,21 @@ From looking at the simulator, you would notice how many swaps are needed
 ## How this looks in practice for Normal version
 - 15/50:
   - ![15/50 Image](ak-wrex6-phase1.png)
+  - add 4 blocks
 - 27/50:
   - ![27/50 Image](ak-wrex6-phase2.png)
+  - remove 1 block, add 2 blocks
 - 39/50:
   - ![39/50 Image](ak-wrex6-phase3.png)
+  - remove 2 blocks
 
 ## How this looks in practice for Raid version
 - 15/50:
   - ![15/50 Image](ak-wrex6r-phase1.png)
+  - add 3 blocks
 - 27/50:
   - ![27/50 Image](ak-wrex6r-phase2.png)
+  - remove 1 block, add 2 blocks
 - 39/50:
   - ![39/50 Image](ak-wrex6r-phase3.png)
-
+  - remove 4 blocks, add 2 blocks
