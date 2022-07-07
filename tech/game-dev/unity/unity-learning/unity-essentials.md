@@ -65,13 +65,23 @@
 ## Initialization
 - created class extends MonoBehaviour
 - contains 2 functions
-  - void Start() - called once at the beginning of the game 
-  - void Update() - called every frame of the game
+  - `void Start()` - called once at the beginning of the game 
+  - `void Update()` - called every frame of the game
 ## Unity Functions
-- Debug.Log() - Logging data to console
-## C# Language Functions
+- `Debug.Log()` - Logging data to console
+- `Time.deltaTime` - interval in sections from last frame to the current frame
+## Unity/C# Language Functions
 - variable definition
   - \[public/private\] \[variabletype(e.g. string)\] \[variable name\] 
+- variable types
+  - `string`
+  - `Vector3` - datatype for holding 3 values
+- accessing components
+  - adding `transform.localScale` to `Update()`
+    - references the transform component of the GameObject of the script
+    - seems to implicitly do this without a `self.` that one would do in other languages to refer to the current object...  
+    - (whereas if you were to refer to another object you would make a variable and then do ``otherobject.transform.localScale`` to refer to that one from what I understand looking at https://docs.unity3d.com/ScriptReference/GameObject.html)
+
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
@@ -91,3 +101,4 @@
 - https://learn.unity.com/tutorial/challenge-the-floor-is-lava
 - https://learn.unity.com/tutorial/get-started-with-scripts
 - https://learn.unity.com/tutorial/code-in-the-default-script
+- https://learn.unity.com/tutorial/change-a-gameobject-with-script
