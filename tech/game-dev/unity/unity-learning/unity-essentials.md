@@ -51,6 +51,8 @@
 - RigidBody - give Object physical properties (for gravity/other GameObjects) 
 - Materials - defines the surface characteristics of objects (change visual appearance)
 - Physic Material - give Object more physical characteristics (bouncing, friction, drag, etc) **does not change visual properties**
+- Audio Source - plays audio (edit AudioClip option to change the exact sound/music file)
+- Audio Listener - recieves output from Audio Source (each scene can have only 1 Audio Listener)
 ## Prefab Notes
 - In Hierarchy, prefabs are shown as blue
 - Override prefab (e.g. for variants): edit it without going into prefab mode
@@ -60,6 +62,10 @@
 - can nest prefabs within other prefabs (when an object needs to be part of another)
   - e.g. a Tree with fruits (with multiple different fruits)
   - acts like a more complex GameObject (attached together), unless the individual prefabs have their own Physic Material
+## Audio Notes
+- Background Music:  
+  - GameObject with Audio Source component
+  - Add a sound to AudioClip option in component
 
 # Scripting Notes
 ## Initialization
@@ -93,7 +99,7 @@
 - https://learn.unity.com/tutorial/what-can-unity-do
 - https://learn.unity.com/tutorial/who-are-real-time-creators
 - https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene
-- https://learn.unity.com/tutorial/create-a-structure-with-primitives
+- https://learn.unity.com/tutorial/create-a-structure-with-primitives 
 - https://learn.unity.com/tutorial/add-components-to-3d-gameobjects
 - https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects
 - https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
@@ -102,3 +108,7 @@
 - https://learn.unity.com/tutorial/get-started-with-scripts
 - https://learn.unity.com/tutorial/code-in-the-default-script
 - https://learn.unity.com/tutorial/change-a-gameobject-with-script
+- https://learn.unity.com/project/essentials-of-real-time-audio
+- https://learn.unity.com/tutorial/add-background-music
+- https://learn.unity.com/tutorial/create-real-time-3d-audio-effects
+
