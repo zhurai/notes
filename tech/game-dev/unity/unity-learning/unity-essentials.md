@@ -66,7 +66,9 @@
 - Background Music:  
   - GameObject with Audio Source component
   - Add a sound to AudioClip option in component
-
+- 3D Sound:
+  - Spatial Blend: Move this all the way to the value of `1`
+  - Min/Max Distance: How many units away the player will hear the 3D Sound (represented by a blue sphere)
 # Scripting Notes
 ## Initialization
 - created class extends MonoBehaviour
@@ -88,7 +90,6 @@
     - seems to implicitly do this without a `self.` that one would do in other languages to refer to the current object...  
     - (whereas if you were to refer to another object you would make a variable and then do ``otherobject.transform.localScale`` to refer to that one from what I understand looking at https://docs.unity3d.com/ScriptReference/GameObject.html)
 
-
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
@@ -104,11 +105,10 @@
 - https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects
 - https://learn.unity.com/tutorial/manage-gameobjects-with-prefabs
 - https://learn.unity.com/tutorial/get-3d-assets
-- https://learn.unity.com/tutorial/challenge-the-floor-is-lava
 - https://learn.unity.com/tutorial/get-started-with-scripts
 - https://learn.unity.com/tutorial/code-in-the-default-script
 - https://learn.unity.com/tutorial/change-a-gameobject-with-script
 - https://learn.unity.com/project/essentials-of-real-time-audio
 - https://learn.unity.com/tutorial/add-background-music
 - https://learn.unity.com/tutorial/create-real-time-3d-audio-effects
-
+- https://learn.unity.com/tutorial/get-audio-assets
