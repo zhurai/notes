@@ -13,7 +13,7 @@
 ### Phase 2 (HP Bar 2)
 - (re)Summons mobs (Sniper mob)
   - Question: Including others?
-- Summons 3 points on the map that do a DOT (damage over time)
+- Summons 3 mobs that do a DOT (damage over time) when exploding (siege)
 ### Phase 3 (HP Bar 3)
 - Casts a field wide poison to the area
 ## Timeline Notes
