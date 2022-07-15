@@ -27,7 +27,7 @@
   - Note: Creators of Unity consider it now a "Real-time engine", not just a game engine
 - Simple GameObjects - Cube/Sphere/etc
 
-# General Editor Notes
+# General Editor Notes 
 ## Default Objects
 - main camera - controls what the player sees during gameplay
 - directional light - simulates the sun (provides light that reflects off 3D GameObjects
@@ -90,6 +90,11 @@
     - seems to implicitly do this without a `self.` that one would do in other languages to refer to the current object...  
     - (whereas if you were to refer to another object you would make a variable and then do ``otherobject.transform.localScale`` to refer to that one from what I understand looking at https://docs.unity3d.com/ScriptReference/GameObject.html)
 
+# 2D Editor Notes
+- Unity uses a y = up system
+- z is toward/away from the player's view in 2D 
+  - changes in scale in the Z direction are not visible to the player
+
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
@@ -112,3 +117,7 @@
 - https://learn.unity.com/tutorial/add-background-music
 - https://learn.unity.com/tutorial/create-real-time-3d-audio-effects
 - https://learn.unity.com/tutorial/get-audio-assets
+- https://learn.unity.com/project/essentials-of-real-time-2d
+- https://learn.unity.com/tutorial/work-with-gameobjects-in-a-2d-scene
+- https://learn.unity.com/tutorial/add-components-to-2d-gameobjects
+- https://learn.unity.com/tutorial/get-2d-assets
