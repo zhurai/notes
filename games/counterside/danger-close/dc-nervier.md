@@ -22,13 +22,15 @@
 ### Units
 - Rosaria -> Other Rangers (Gaeun/etc)
   - Rosaria is most ideal because she is an air unit + doesn't get damaged + does high damage herself
-- Edel -> can be useful here? (extra bodies to help frontline survive)
+- Edel -> can be useful here (extra bodies to help frontline survive)
+- Kyle/Gauen can be useful here too
+- Xiao/Janus/Maria can work here too
 - Regina -> ice shields + doesn't have role disadvantage vs sniper  (or bring a ranger DPS)
-- Harim -> supporter with skill haste
 - Chifuyu
-- Ranged Buffers (Seo yoon, Shin Ja, etc)
+- Standard Support Buffers (Seo yoon, Shin Ja, Harim)
 ### Gameplay
 - DPS + Gear check
 # Sources
 - https://www.prydwen.co/guides/danger-close-nervier/ (does not have information yet on 7/2022)
+- https://www.youtube.com/watch?v=RZ44PoFe1iY
 - https://www.youtube.com/watch?v=WPt0EOAq0mU
