@@ -101,6 +101,46 @@
     - Component: Constraints -> Freeze Position (X,Y,Z)
 - Collider 2D - component to give physical properties to prevent an object from overlapping (similar to 3D colliders except 2D space) 
 
+# Realtime Development/Production Lifecycle
+- Unity is used in games, aerospace, medical, manufacturing, etc
+- Which specific steps are used depends on the type of project and company 
+## Phases / Steps
+1. Pre-production - initial work before production begins
+   - e.g. planning, prototyping, pipeline setup, and initial designs.
+2. Production - creating the products and assets
+   - e.g. creating the 2D assets, 3D Models, audio, lighting, and user experience/UI
+   - game logic, etc
+3. Post-production - work done after the final product is complete
+   - e.g. QA, editing, testing, bug fixing, and polishing 
+4. Operations - work done after the product has been released
+   - e.g. sales, monetization, updates, maintenance, etc
+### Pre-Production
+- Usually create a design document - single source of truth for it's creative direction
+  - Can also be a script, storyboard, game design document, etc
+  - includes any story, gameplay, art type, art direction, intended target audience, accessibility, etc
+- This is used to iterate designs and ideas early 
+  - easier to change directions at this phase compared to later
+- Minimum Viable Product/Prototypes
+### Production
+- Actual building work starts here
+- Assets/Models (2D/3D) are created
+- Storyboards are animated
+- Prototypes become more functional
+- Producer usually involved to prevent **feature creep**, as it will cause delays
+- version control is useful in this phase
+### Post-Production
+- alpha/beta testing
+- Fixing bugs that came up in testing
+- Ends when the product is released to the public
+### Operations
+- Support customer's with their questions/requests/problems
+- Monetization with IAP
+- Advertising
+- Analytics
+- Maintenance on the game server
+- Maintenance on the website server
+- Business and Sales, and continued marketing
+
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
@@ -127,3 +167,6 @@
 - https://learn.unity.com/tutorial/work-with-gameobjects-in-a-2d-scene
 - https://learn.unity.com/tutorial/add-components-to-2d-gameobjects
 - https://learn.unity.com/tutorial/get-2d-assets
+- https://learn.unity.com/project/the-real-time-industry
+- https://learn.unity.com/tutorial/the-real-time-production-cycle
+- https://learn.unity.com/tutorial/roles-and-careers-for-real-time-creators
