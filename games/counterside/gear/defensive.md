@@ -21,7 +21,8 @@
 - Maze Armor
 - Set: HP > DEF
 - Substat 1: Anti Ground Damage RES
-- Substat 2: Skill Haste
+- Substat 2: Skill Haste 
+  - Alternatively: Anti Class Damage RES based on class disadvantage 
 ## Accessories
 - Gordias Hit/Accuracy
 - Set: HP > DEF
