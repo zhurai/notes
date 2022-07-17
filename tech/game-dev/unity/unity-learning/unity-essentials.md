@@ -140,7 +140,7 @@
 - Maintenance on the game server
 - Maintenance on the website server
 - Business and Sales, and continued marketing
-
+f.lu
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
 - https://learn.unity.com/tutorial/welcome-to-unity-essentials-1
@@ -170,3 +170,8 @@
 - https://learn.unity.com/project/the-real-time-industry
 - https://learn.unity.com/tutorial/the-real-time-production-cycle
 - https://learn.unity.com/tutorial/roles-and-careers-for-real-time-creators
+- https://learn.unity.com/tutorial/how-our-established-creators-learned-unity
+- https://learn.unity.com/tutorial/develop-your-learning-plan
+- https://learn.unity.com/tutorial/unitys-creator-community
+- https://learn.unity.com/tutorial/explore-game-jams
+- https://learn.unity.com/tutorial/on-to-your-creative-journey
