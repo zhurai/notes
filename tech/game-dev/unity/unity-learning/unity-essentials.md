@@ -94,6 +94,12 @@
 - Unity uses a y = up system
 - z is toward/away from the player's view in 2D 
   - changes in scale in the Z direction are not visible to the player
+- SpriteRenderer - 2D Component
+  - Sprite - controls what texture the component should render
+- RigidBody 2D - to give an object mass (e.g. for gravity)
+  - How to prevent an object from falling (e.g. the floor/ground)
+    - Component: Constraints -> Freeze Position (X,Y,Z)
+- Collider 2D - component to give physical properties to prevent an object from overlapping (similar to 3D colliders except 2D space) 
 
 # Sources
 - https://learn.unity.com/tutorial/get-ready-for-unity-essentials
