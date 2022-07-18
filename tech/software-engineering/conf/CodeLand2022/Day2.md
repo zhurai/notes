@@ -58,6 +58,7 @@ Keynote: Ten Commandments of Navigating Code Reviews (Angie Jones)
     - Thou shalt embrace the nit (nitpickers)
 ## Sources
 - https://community.codenewbie.org/codeland2022/keynote-ten-commandments-of-navigating-code-reviews-with-angie-jones-1b05
+- https://www.youtube.com/watch?v=3b_3-XyDat8
 
 Design Systems for Developers (Kathryn Grayson Nanz)
 ======
@@ -337,6 +338,7 @@ Surviving and Thriving as an Idealist In Tech
     - identify what is important (personally)
 ## Sources
 - https://community.codenewbie.org/codeland2022/keynote-a-fireside-chat-with-tracy-chou-2mo4
+- https://www.youtube.com/watch?v=pppuu7JR5u8
 
 Sources
 ======

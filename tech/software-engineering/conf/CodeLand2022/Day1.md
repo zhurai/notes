@@ -36,6 +36,7 @@ Keynote: Fireside Chat (Kelsey Hightower)
 - "Enjoy every minute of this"
 ## Sources
 - https://community.codenewbie.org/codeland2022/keynote-a-fireside-chat-with-kelsey-hightower-5db7
+- https://www.youtube.com/watch?v=w-eHa2Rz3nU
 
 Redefining Your Programming Purpose (Tracy P Holmes)
 ======
@@ -171,7 +172,7 @@ How I Tracked My Pregnancy with Python & Emojis (Hannah Hazi)
 - https://community.codenewbie.org/codeland2022/on-demand-talk-how-i-tracked-my-pregnancy-with-python-emojis-4cef
 - https://www.youtube.com/watch?v=8yXb-AMgzh8
 
-I Think, Therefore I Code: An Introduction to Pseudocode (Silvia España)
+I Think, Therefore I Code: An Introduction to Pseudocode (Sylvia España)
 ======
 ## Notes
 - Main job for programmers is to solve problems
